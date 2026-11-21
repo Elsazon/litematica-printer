@@ -41,7 +41,8 @@ public class Guides {
                 //$$ TorchBlock.class
                 //#endif
         );
-
+        //idkwhatmedone
+        register(TumblestoneGuide::new);
         // 紫水晶芽
         register(AmethystGuide::new, AmethystClusterBlock.class);
 
